@@ -1,0 +1,14 @@
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\bin\Debug\netcoreapp3.1\CM.Application.deps.json
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\bin\Debug\netcoreapp3.1\CM.Application.dll
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\bin\Debug\netcoreapp3.1\CM.Application.pdb
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\obj\Debug\netcoreapp3.1\CM.Application.AssemblyInfoInputs.cache
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\obj\Debug\netcoreapp3.1\CM.Application.AssemblyInfo.cs
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\obj\Debug\netcoreapp3.1\CM.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\obj\Debug\netcoreapp3.1\CM.Application.dll
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\obj\Debug\netcoreapp3.1\CM.Application.pdb
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\obj\Debug\netcoreapp3.1\CM.Application.csprojAssemblyReference.cache
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\bin\Debug\netcoreapp3.1\CM.Core.dll
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\bin\Debug\netcoreapp3.1\CM.Data.dll
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\bin\Debug\netcoreapp3.1\CM.Data.pdb
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\bin\Debug\netcoreapp3.1\CM.Core.pdb
+C:\Users\Mustafa.Alhan\Desktop\Assignment\CampaignModule\CM.Application\obj\Debug\netcoreapp3.1\CM.Application.csproj.CopyComplete
